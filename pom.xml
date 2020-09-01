@@ -32,8 +32,8 @@
 </dependencies>
 
 <scm>
-  <connection>scm:git:https://github.com/spring-guides/gs-maven.git</connection>
-  <developerConnection>scm:svn:https://github.com/spring-guides/gs-maven.git</developerConnection>
+  <connection>scm:git:https://github.com/gh1414/mavenTest</connection>
+  <developerConnection>scm:git:https://github.com/gh1414/mavenTest</developerConnection>
 </scm>
 
 <build>
